@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/INFSCI_2140_Project.iml" filepath="$PROJECT_DIR$/.idea/INFSCI_2140_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scripts/SearchEngine/SearchEngine.iml" filepath="$PROJECT_DIR$/scripts/SearchEngine/SearchEngine.iml" />
     </modules>
   </component>
 </project>
