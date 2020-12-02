@@ -1,0 +1,14 @@
+/Search Engine/data/outputs/intermediate/Cleaned_Data.csv
+/Search Engine/data/outputs/intermediate/Result_Data_with_relevance.csv
+/Search Engine/data/inputs/attributes.csv
+/Search Engine/data/inputs/*.csv
+/Search Engine/data/inputs/*.pickle
+/Search Engine/data/inputs/product_descriptions.csv
+/Search Engine/data/inputs/train.csv
+/Search Engine/data/outputs/intermediate/Result_Data_without_relevance.csv
+/Search Engine/data/outputs/intermediate/*.csv
+/Search Engine/data/outputs/index/*
+__pycache__/
+*.py[cod]
+/node_modules/
+/package-lock.json
